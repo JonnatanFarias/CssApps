@@ -29,6 +29,11 @@ p{
     display: flex;
     justify-content: center;
 }
+.code{
+    
+    font-weight: normal;
+    text-align: left;
+}
 /* From uiverse.io by @satyamchaudharydev */
 /* The switch - the box around the slider */
 .switch {
