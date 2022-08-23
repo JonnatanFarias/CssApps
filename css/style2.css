@@ -6,11 +6,10 @@
     position: relative;
     display: flex;
     justify-content: center;
-    transform: scale(1.8);
     
 }
 h1{
-    top: 200px;
+    top: 100px;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     position: relative;
@@ -19,6 +18,16 @@ h1{
     
     
     
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    top: 100px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    position: relative;
+    display: flex;
+    justify-content: center;
 }
 /* From uiverse.io by @satyamchaudharydev */
 /* The switch - the box around the slider */
@@ -65,7 +74,7 @@ h1{
     left: var(--slider-offset,0.3em);
     top: 50%;
     transform: translateY(-50%);
-    background: linear-gradient(40deg,#ff0080,#ff8c00 70%);
+    background: linear-gradient(40deg,#c00221,#f8941a 60%);
     ;
    transition: .4s;
   }
@@ -78,7 +87,7 @@ h1{
     left: calc(100% - (var(--size-of-icon,1.4em) + var(--slider-offset,0.3em)));
     background: #303136;
     /* change the value of second inset in box-shadow to change the angle and direction of the moon  */
-    box-shadow: inset -3px -2px 5px -2px #8983f7, inset -10px -4px 0 0 #a3dafb;
+    box-shadow: inset -3px -2px 5px -2px #3e34ff, inset -10px -4px 0 0 #1d6897;
   }
   .dark-mode {
     transition: ease-in-out 0.2s;
