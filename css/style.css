@@ -120,7 +120,7 @@ h1{
 
 }
 .input:hover{
-
+    
     transition: ease 0.3s;
     border: solid indigo;
 }
