@@ -95,7 +95,7 @@ p{
     box-shadow: inset -3px -2px 5px -2px #3e34ff, inset -10px -4px 0 0 #1d6897;
   }
   .dark-mode {
-    transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.3s;
     background-color: #212121;
     color:  white;
   }
