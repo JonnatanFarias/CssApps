@@ -2,24 +2,22 @@
 /* The switch - the box around the slider */
 
 .container{
-    position: absolute;
+    top: 50px;
+    position: relative;
     display: flex;
     justify-content: center;
-    top: 50%;
-    left: 50%;
-    margin: -25px 0 0 -25px;
     transform: scale(1.8);
     
 }
 h1{
+    top: 200px;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    position: absolute;
+    position: relative;
     display: flex;
     justify-content: center;
-    top: 60%;
-    left: 47%;
-    margin: -25px 0 0 -25px;
+    
+    
     
 }
 /* From uiverse.io by @satyamchaudharydev */
