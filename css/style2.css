@@ -99,3 +99,7 @@ p{
     background-color: #212121;
     color:  white;
   }
+  p::selection{
+    background-color: indigo;
+    color: white;
+  }
