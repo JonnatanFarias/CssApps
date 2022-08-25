@@ -63,7 +63,7 @@ body {
 
 }
 .btnLogin{
-    box-shadow:  8px 8px 10px #121212;
+    box-shadow:  3px 3px 10px #ababab;
     transition: ease 0.2s;
     font-size: x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -74,6 +74,9 @@ body {
     margin-left: 100px;
     height: 60px;
     width: 200px;
+
+
+ 
 }
 
 .btnLogin:hover{
@@ -87,4 +90,5 @@ body {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
+    font-weight: bold;
 }
